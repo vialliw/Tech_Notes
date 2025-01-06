@@ -1,4 +1,22 @@
-# Mastering GitHub: A Newbie's Guide to Contributing Like a Pro
+---
+title: "Mastering GitHub: A Newbie's Guide to Contributing Like a Pro"
+tags: ["Github", "git", "contribution", "open source", "pull request", "newbie", "beginner"]
+---
+
+
+## Table of Contents
+1. [Introduction](#introduction)
+2. [Find a Project](#1-find-a-project)
+3. [Set Up Your Environment](#2-set-up-your-environment)
+4. [Fork the Repository](#3-fork-the-repository)
+5. [Clone Your Fork](#4-clone-your-fork)
+6. [Create a New Branch](#5-create-a-new-branch)
+7. [Make Changes](#6-make-changes)
+8. [Commit Your Changes](#7-commit-your-changes)
+9. [Push Your Changes](#8-push-your-changes)
+10. [Create a Pull Request](#9-create-a-pull-request)
+11. [Review and Respond](#10-review-and-respond)
+12. [Merge Your Pull Request](#11-merge-your-pull-request)
 
 *   ## **Introduction**
     
@@ -171,3 +189,4 @@ In this blog, I'll guide you through selecting a project, forking it, contributi
   
 
 By following these steps and being respectful and patient, you can successfully contribute to a GitHub project and become part of the open-source community.
+
