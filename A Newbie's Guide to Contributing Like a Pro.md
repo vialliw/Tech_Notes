@@ -1,4 +1,4 @@
-# A Newbie's Guide to Contributing Like a Pro
+# A Newbie's Guide to Contributing Github Like a Pro
 
 tags: [Github, git, contribution, open source, pull request, newbie, beginner, step by step guide]
 
